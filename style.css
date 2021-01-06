@@ -68,6 +68,9 @@ section{
     border-radius: 5px;
 }
 
+.btn img{
+    width: 20px;
+}
 /* service */
 .skill-services{
     height: 615px;
